@@ -1,0 +1,12 @@
+#profile-pic{
+  display: 'flex';
+    margin: auto;
+  padding: 16px;
+}
+
+img {
+	margin: auto;
+	max-height: 150px;
+  border-radius: 500px;
+  max-width: 150px;
+}
