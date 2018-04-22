@@ -5,8 +5,8 @@
 }
 
 img {
-	margin: auto;
-	
+	margin: auto;	
   border-radius: 500px;
- 
+  max-width: 250px;
+  max:height 250px;
 }
